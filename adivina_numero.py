@@ -1,5 +1,6 @@
 import random
 
+#aqui vamos a trabajar en la linea de cabecera
 
 def run():
     numero_aleatorio = random.randint(1,100)
