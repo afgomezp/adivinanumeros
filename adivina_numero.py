@@ -6,6 +6,10 @@ import random
 
 
 
+#aqui se intenta genera un conflicto con la version master
+
+# la idea es generar conflicto en las diferentes lineas
+
 def run():
     numero_aleatorio = random.randint(1,100)
     print ("vas a tener 5 intentos para adivinar el numero")
