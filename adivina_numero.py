@@ -10,8 +10,10 @@ import random
 
 # la idea es generar conflicto en las diferentes lineas
 
+#se cambia los numero aleatorios para generar conflictos
+
 def run():
-    numero_aleatorio = random.randint(1,100)
+    numero_aleatorio = random.randint(1,150)
     print ("vas a tener 5 intentos para adivinar el numero")
     numero_elegido = int(input("elige un numero del 1 al 100: "))
 
