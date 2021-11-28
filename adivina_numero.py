@@ -9,6 +9,8 @@ import random
 
 #se intenta un nuevo comentario desde master para hacer un merge con conflicto
 
+
+
 def run():
     numero_aleatorio = random.randint(1,100)
     print ("vas a tener 5 intentos para adivinar el numero")
