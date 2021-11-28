@@ -1,7 +1,7 @@
 import random
 
 #aqui vamos a trabajar en la linea de cabecera
-
+# a la par se agrega una linea en master
 def run():
     numero_aleatorio = random.randint(1,100)
     print ("vas a tener 5 intentos para adivinar el numero")
