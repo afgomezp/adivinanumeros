@@ -5,7 +5,9 @@ import random
 # a la par se agrega una linea en master
 
 # se pone un comentario adicional a linea cabecera
-#aqui se intenta una cabecera 2"
+#aqui se intenta una cabecera 2
+
+#se intenta un nuevo comentario desde master para hacer un merge con conflicto
 
 def run():
     numero_aleatorio = random.randint(1,100)
