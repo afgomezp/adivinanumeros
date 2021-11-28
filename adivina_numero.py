@@ -9,7 +9,7 @@ import random
 
 #se intenta un nuevo comentario desde master para hacer un merge con conflicto
 
-
+#un nuevo intento de conflicto se genera en este momento
 
 def run():
     numero_aleatorio = random.randint(1,100)
